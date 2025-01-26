@@ -3,7 +3,7 @@
 I'm a passionate developer focused on web and mobile technologies.
 
 ### 🚀 Current Projects
-- [MangaApp](https://github.com/wahyu/mangaapp) - A manga reader app built with Flutter.
+- [AboutMe](https://singpentingyakin.netlify.app/) - About Me.
 - [ShopMeubel](https://github.com/wahyu/shopmeubel) - An e-commerce app for selling wooden furniture.
 
 ### 📍 Location: Semarang, Indonesia
