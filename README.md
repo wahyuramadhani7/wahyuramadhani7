@@ -16,3 +16,4 @@ I'm a software developer passionate about web and mobile development.
 ![GitHub stars](https://img.shields.io/github/stars/wahyu?style=social)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyu&show_icons=true&hide_title=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahyuramadhani7&theme=dark)
