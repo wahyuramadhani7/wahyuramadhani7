@@ -1,7 +1,7 @@
 # Hi, I'm Wahyu 👋
 
 I'm a software developer passionate about web and mobile development.
-### 📍 Location: Jakarta, Indonesia
+### 📍 Location: Semarang, Indonesia
 
 
 ### 💻 Technologies I Use
